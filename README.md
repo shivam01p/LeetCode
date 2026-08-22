@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivam01p/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/shivam01p/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shivam01p/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shivam01p/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
@@ -39,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivam01p/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivam01p/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -53,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivam01p/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shivam01p/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shivam01p/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/shivam01p/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shivam01p/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -67,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/shivam01p/LeetCode/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
