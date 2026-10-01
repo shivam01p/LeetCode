@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivam01p/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shivam01p/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shivam01p/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
