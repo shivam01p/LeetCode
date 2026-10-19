@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivam01p/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivam01p/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/shivam01p/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivam01p/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
