@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam01p/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/shivam01p/LeetCode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivam01p/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivam01p/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivam01p/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shivam01p/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -91,4 +93,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivam01p/LeetCode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
