@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivam01p/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam01p/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/shivam01p/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shivam01p/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam01p/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivam01p/LeetCode/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivam01p/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shivam01p/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam01p/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivam01p/LeetCode/tree/master/0189-rotate-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivam01p/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivam01p/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivam01p/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam01p/LeetCode/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivam01p/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivam01p/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
