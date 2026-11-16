@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivam01p/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam01p/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivam01p/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shivam01p/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
 ## Math
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivam01p/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivam01p/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivam01p/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/shivam01p/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shivam01p/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivam01p/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam01p/LeetCode/tree/master/0268-missing-number) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivam01p/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam01p/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shivam01p/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivam01p/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
